@@ -1,32 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Shubham Gupta's Webpage
 
 You can use the [editor on GitHub](https://github.com/g21shubham/shubham-g.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What was the motivation behind this page?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page has been created that showcase what Shubham does in his past-time. It consists of all the things that he learns and the various projects he keeps on doing to market himself better. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What can you expect from this?
 
-- Bulleted
-- List
+- You will find learnings from various challenges that Shubham has faced.
+- You can find articles on various concepts that are used in the whole Machine Learning modelling process
+- Shubham keeps sharing any new thing that he comes across or any new skill that he has learned
 
-1. Numbered
-2. List
+# Soft Skills you can learn
 
-**Bold** and _Italic_ and `Code` text
+- Problem Solving
+- Critical Thinking
+- Storyboarding
+- Presentation
+- Communication
 
-[Link](url) and ![Image](src)
-```
+# How can you contact Shubham?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Shubham is always available at g21.shubham@gmail.com
+- To look at the projects Shubham has done, you can visit his [github](https://github.com/g21shubham).
 
 ### Jekyll Themes
 
