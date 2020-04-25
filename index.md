@@ -4,9 +4,6 @@
 
 This page has been created that showcase what Shubham does in his past-time. It consists of all the things that he learns and the various projects he keeps on doing to market himself better. 
 
-```markdown
-Syntax highlighted code block
-
 # What can you expect from this?
 
 - You will find learnings from various challenges that Shubham has faced.
