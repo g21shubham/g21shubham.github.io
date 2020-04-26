@@ -13,8 +13,8 @@ This page has been created to showcase Shubham's projects and learnings.
 # Technologies that you can learn 
 
 - Python
-- SQL
 - Spark
+- SQL
 
 # Soft Skills you can learn
 
