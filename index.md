@@ -2,21 +2,29 @@
 
 ### What was the motivation behind this page?
 
-This page has been created that showcase what Shubham's projects and learnings.
+This page has been created to showcase Shubham's projects and learnings.
 
 # What can you expect from this?
 
 - You will find learnings from various challenges that Shubham has faced.
-- You can find articles on various concepts that are used in the whole Machine Learning modelling process
-- Shubham keeps sharing any new thing that he comes across or any new skill that he has learned
+- You can find articles on various concepts that were used in the Machine Learning modelling process
+- Shubham keeps sharing new things that he comes across or any new skill that he is learning
+
+# Technologies that you can learn 
+
+- Python
+- SQL
+- Spark
 
 # Soft Skills you can learn
 
+- Analytical Skills
 - Problem Solving
 - Critical Thinking
-- Storyboarding
+- Storytelling
 - Presentation
 - Communication
+
 
 # How can you contact Shubham?
 
