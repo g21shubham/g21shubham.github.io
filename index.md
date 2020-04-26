@@ -2,7 +2,7 @@
 
 ### What was the motivation behind this page?
 
-This page has been created that showcase what Shubham does in his past-time. It consists of all the things that he learns and the various projects he keeps on doing to market himself better. 
+This page has been created that showcase what Shubham's projects and learnings.
 
 # What can you expect from this?
 
